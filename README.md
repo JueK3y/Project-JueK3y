@@ -37,7 +37,7 @@ This may well occur in an unfinished website.
 <br>I would appreciate it if you would then open a [new issue](https://github.com/JueK3yOrg/Project-JueK3y/issues/new) so I can take care of the bug.
 
 _<br>Please note that only visual things, such as accessibility problems, can be reported here.
-<br>Any other problems, such as 404 errors (i.e. technical problems can be reported [on the personal JueK3y code page](https://github.com/JueK3y/Project-JueK3y)._
+<br>Any other problems, such as 404 errors (i.e. technical problems can be reported [on the personal JueK3y code page](https://github.com/JueK3y/Project-JueK3y/issues)._
 
 <br>Thanks for your help!
 
